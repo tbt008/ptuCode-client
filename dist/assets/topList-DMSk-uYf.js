@@ -1,0 +1,1 @@
+import{_ as e}from"./music-1-C8V4Y2OJ.js";import{_ as o,o as t,c as r}from"./index-DdujhLSS.js";const c={},s={src:e,style:{width:"100%",height:"100%","border-radius":"15px","object-fit":"cover",overflow:"hidden","object-position":"center"}};function i(n,_){return t(),r("img",s)}const f=o(c,[["render",i]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-DdujhLSS.js";const s="/assets/music-2-DTy_9yn4.gif",c={},r={src:s,style:{width:"100%",height:"100%","border-radius":"15px","object-fit":"cover",overflow:"hidden","object-position":"center"}};function n(i,_){return t(),o("img",r)}const d=e(c,[["render",n]]);export{d as default};
